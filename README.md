@@ -1,0 +1,1 @@
+A collection of javascript exercises from the book Beginning Javascript, 5th Edition, by McPeak.
